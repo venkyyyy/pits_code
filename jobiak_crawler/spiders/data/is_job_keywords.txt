@@ -1,0 +1,25 @@
+datePosted
+jobLocation
+Apply online
+apply now
+here to apply
+login to apply
+apply to this
+apply for this
+Apply Through Craigslist
+Apply for this position!
+Please apply today
+If you are interested in being considered for this opportunity please apply today
+Desired Skills & Experience
+For more job details and to APPLY
+To apply, please email
+To apply, please
+Job Description
+about company
+job_description
+apply_now
+job-details
+Job Summary
+Click to Apply
+Job Title
+Apply": "Apply",

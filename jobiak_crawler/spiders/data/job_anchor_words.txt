@@ -1,0 +1,7 @@
+# words to look for in anchor text
+job
+jobs
+career
+careers
+employment
+join

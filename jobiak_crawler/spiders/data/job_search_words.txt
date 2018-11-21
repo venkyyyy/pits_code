@@ -1,0 +1,3 @@
+# words plugged into site search form, to find jobs index page
+jobs
+career

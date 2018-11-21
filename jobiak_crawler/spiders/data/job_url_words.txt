@@ -1,0 +1,7 @@
+# words to look for in URLs
+job
+jobs
+career
+careers
+employment
+join

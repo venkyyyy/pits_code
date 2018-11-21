@@ -1,0 +1,5 @@
+project: <project id>
+requirements:
+  file: Pipfile.lock
+image: true
+version: GIT

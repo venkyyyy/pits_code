@@ -1,0 +1,36 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+scrapy = "*"
+adblockparser = "*"
+formasaurus = "*"
+autopager = "*"
+scrapy-magicfields = "*"
+scrapy-fieldstats = "*"
+scrapy-querycleaner = "*"
+stickymeta = "*"
+scrapinghub = "*"
+hubstorage = "*"
+pipenv = "*"
+brotlipy = "*"
+importlib-resources = "*"
+scrapinghub-entrypoint-scrapy = "*"
+"boto3" = "*"
+numpy = "*"
+scipy = "*"
+cython = "*"
+sklearn = "*"
+
+[dev-packages]
+shub = "*"
+pipenv = "*"
+"s3cmd" = "*"
+awscli = "*"
+msgpack-python = "*"
+ipython = "*"
+
+[requires]
+python_version = "3.6"
